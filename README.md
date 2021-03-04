@@ -1,6 +1,10 @@
 # DappI--State-Machine-Lab
 **After accident claims process - State Machine Lab**
 
+
+![alt text](https://github.com/pratikit007/DappI--State-Machine-Lab/blob/main/State_Machine.png?raw=true)
+
+
 **State Data:**
 States: [“No Accident”, “Accident”, ‘’ Insurance Broker”, “Fault determined”, “Repair or write off”, “Medical Benefits”, “Death benefit”, “Claim closure”]
 
